@@ -1,2 +1,3 @@
 # Is-my-ID-number-correct
-A small tool for checking the verification bit of ID number
+一个检查身份证号码校检位的小工具
+
